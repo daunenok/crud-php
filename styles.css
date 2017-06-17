@@ -1,0 +1,42 @@
+body {
+	padding-bottom: 100px;
+}
+h1 {
+	text-align: center;
+}
+input#day, input#track {
+	width: 50px;
+}
+input#year, input#duration {
+	width: 70px;
+}
+input#title {
+	width: 100%;
+}
+select {
+	width: 120px;
+}
+form {
+	background-color: #eee;
+	padding: 5%;
+}
+form a.btn, form button.btn {
+	margin-top: 30px;
+}
+table.tracks td:first-child {
+	width: 70px;
+}
+table.tracks td:nth-child(3) {
+	width: 100px;
+}
+table a.btn, table button.btn {
+	margin-bottom: 5px;
+}
+table.albums td:nth-child(4) {
+	width: 100px;
+}
+table.albums td:nth-child(5) {
+	width: 200px;
+}
+
+
